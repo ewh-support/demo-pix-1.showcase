@@ -1,0 +1,6 @@
+{
+    "name": "EasyWeb AdminCP",
+    "version": 1.0,
+    "apiEndPoint" : "http://localhost:3003",
+    "websiteTitle" : "trungtam"
+}
