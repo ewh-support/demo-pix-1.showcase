@@ -1,6 +1,6 @@
 {
     "name": "EasyWeb AdminCP",
     "version": 1.0,
-    "apiEndPoint" : "http://localhost:3003",
+    "apiEndPoint" : "http://lb.cryptosignals.webdigital.vn",
     "websiteTitle" : "CRYPTO_PIX"
 }
